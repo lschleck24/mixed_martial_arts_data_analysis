@@ -1,6 +1,6 @@
 # mixed_martial_arts_data_analysis
 
-This is a data visualization project on a mixed martial arts dataset that contains data on all of the UFC fights starting from 1993. In my project my aim was to show what fighting styles were effective when the UFC started, what fighting styles win today in the modern UFC, what kinds of fighting techniques correlate with one another, and what makes certain dominant UFC fighters so effective. 
+This is a data visualization project on a mixed martial arts dataset that contains data on all of the UFC fights starting from 1993. My project aim was to show what fighting styles were effective when the UFC started, what fighting styles win today in the modern UFC, what kinds of fighting techniques correlate with one another, and what makes certain dominant UFC fighters so effective. 
 
 I created all of the visualizations in the project using plotly express and plotly graph objects. I used pandas dataframes in order to manipulate the data I was working with. I wrote my python code in a Jupyter Noteboook. 
 
